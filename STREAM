@@ -4,48 +4,6 @@
 
 
 
-         ===== ASEAN U23 ======
-                 
-         
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 1
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp0cLnDzJZ3PN3-nQ5Uyn2Ee1z9vRhUd0d7MnP_pswLeMqGlleDS-gH497&s=10" Group-title="ASEAN U23 CHAMPIONSHIP", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-
-
-
-
-                ==========MLS=======
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tfnr0ga5nhcjtgozdkqbqge4dqmmoqisga75ufiuzga3qpbhg15t38rzgg55p.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59258007-saturn-wsu/playlist.m3u8?wsSecret=c662a6c38f29b516ce4a7299ec12ca46&wsABSTime=68848434&wsSession=c5513f933791908ef7a84bfd-175350156681410&wsIPSercert=c21dd549a59ecd7827e2300c0522ec71&wsiphost=local&wsBindIP=1
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live/sd-1-4254555.m3u8?txTime=68843dc2&user_session_id=19e2169856b1f77fa491ac6665834b0c&edge_slice=true&txSecret=60a5aa890afb7788ebe6816cb15dff48&sub_m3u8=true
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-
-
-
-
            ==========MACAU OPEN=======
 
 
@@ -84,60 +42,35 @@ https://b188f789c84dcab4371c6e06ad24ca1e.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSgS7LK-RUAbvxC2soItUHY3NrHmhmoIdNt_ape3iNvGxw1ZWKqx3rM8&s=10" Group-title="CLUB FRIENDLY", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://hls.uouetrq19.com/live/sd-6MuRsd6nrfMvpg4BwM.m3u8?txSecret=776479c1df27dd5b9d603da823f8f685&txTime=68876989
+https://svs.itworkscdn.net/smc4sportslive/smc4tv.smil/smc4sportspublish/smc4tv_360p/chunks.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtSgS7LK-RUAbvxC2soItUHY3NrHmhmoIdNt_ape3iNvGxw1ZWKqx3rM8&s=10" Group-title="CLUB FRIENDLY", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://tfns0ga5nhcjtgozdkqbqge4dcmmoqisga75ufiuzga3qpbhg15t38rzgg55p.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59259340-saturn-wsu/playlist.m3u8?wsSecret=94f91a42458d98f4da6c5763e3d01244&wsABSTime=68865444&wsSession=6beff8cdbce9830df3f508eb-175361970181157&wsIPSercert=643cc471039b0d61dabd45763cdf75f6&wsiphost=local&wsBindIP=1
+https://top2new.newkso.ru/top2/betyokohool/mono.m3u8
 
 
 
+                ==========MLS=======
 
-                ==========MOJI VOLLEY CUP======
 
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmZqyU--2wsJECsmMmhWxdhEtatt-3U_zQQeVdI5BRh70Tx4GJuuFOpk&s=10" Group-title="MOJI VOLLEY CUP", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://tfnr0ga5nhcjtgozdkqbqge4dqmmoqisga75ufiuzga3qpbhg15t38rzgg55p.100ycdn.com/pullws-gsc.hxin99.com/live/dps-59258007-saturn-wsu/playlist.m3u8?wsSecret=c662a6c38f29b516ce4a7299ec12ca46&wsABSTime=68848434&wsSession=c5513f933791908ef7a84bfd-175350156681410&wsIPSercert=c21dd549a59ecd7827e2300c0522ec71&wsiphost=local&wsBindIP=1
 
 
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKmZqyU--2wsJECsmMmhWxdhEtatt-3U_zQQeVdI5BRh70Tx4GJuuFOpk&s=10" Group-title="MOJI VOLLEY CUP", SERVER 2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://v4-676ad5a9989e794593dec534489c2d49.livehwc4.com/pull.chaojiumq.com/live/sd-1-4254555.m3u8?txTime=68843dc2&user_session_id=19e2169856b1f77fa491ac6665834b0c&edge_slice=true&txSecret=60a5aa890afb7788ebe6816cb15dff48&sub_m3u8=true
 
 
-
-
-
-
-                ==========WORLD CHAMPIONSHIP U19=======
-
-
-#EXTINF:-1 tvg-logo="https://norceca.net/Participating-Teams-For-U19Untitled-1.gif" Group-title="U19 WORLD CHAMPIONSHIP", VOL 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNIrO-lRENdD1kQR4GENQ6UPRSI9_R2lOlm2HIZ1SKyqp6lhMmI7GPC4Q&s=10" Group-title="MAJOR LEAGUE SOCCER", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fhlsport121.fjs40b8.xyz/token-JEAtyeGWIPaGuTQrkvY6yD2HlMDahiHjZSCrxqZKFTWktLeaHUFdD4kqrhVJXEtJBCeIwDdmmvw%3Da/cfall/s2001/v3b/nnr6ppr2nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_610886.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://norceca.net/Participating-Teams-For-U19Untitled-1.gif" Group-title="U19 WORLD CHAMPIONSHIP", VOL 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fhlsport121.fjs40b8.xyz/token-IxR5ybjGeqCG6zQsl%2FY6m2rSlMDbhi3jbXP4waVGEjnz5LeeHUFdD4kqpRZBWk9JBCeIwDdmmvw%3Da/cfall/s6/v3b/r7rsrqnpnUE0pUZ6Yl9mYJVmYaEiq3Eio21uYz5yqN%3D%3D/plyvivo/6u4i20yin0desu1id0du/chunklist.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://norceca.net/Participating-Teams-For-U19Untitled-1.gif" Group-title="U19 WORLD CHAMPIONSHIP", VOL 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-
-
 
 
 
@@ -278,15 +211,15 @@ http://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans-tv%20(1).png", TRANSTV HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#https://why.biz.id/Iptv/oxygen.php?id=transtv
 
 
 #EXTINF:-1 tvg-id="Trans7" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://github.com/Qingtvnew/test/raw/main/trans7%20(1).png" group-title="NASIONAL",TRANS7 HD
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191804.m3u8
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+#https://why.biz.id/Iptv/oxygen.php?id=trans7
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://github.com/Qingtvnew/test/raw/main/TVRI.png", TVRI 
@@ -305,8 +238,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;user
 #KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
 https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
 
-#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/BTV.png", BTV 
-https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
+#EXTINF:-1 group-title="NASIONAL" tvg-logo="https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/BTV.png", BTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8?app_type=web&userid=lite&chname=btv
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",MENTARI TV
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd

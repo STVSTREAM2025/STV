@@ -2,6 +2,53 @@
 
 
 
+           ==========AFC U20===========
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRJvEz-unLQ4FvKJ1yXKFA8PcJGdCxmwp2gQCuKOyknnoO_Cas9l4dJv0&s=10" Group-title="AFC U20 WOMEN", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRJvEz-unLQ4FvKJ1yXKFA8PcJGdCxmwp2gQCuKOyknnoO_Cas9l4dJv0&s=10" Group-title="AFC U20 WOMEN", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvRJvEz-unLQ4FvKJ1yXKFA8PcJGdCxmwp2gQCuKOyknnoO_Cas9l4dJv0&s=10" Group-title="AFC U20 WOMEN", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+
+
+
+
+
+           ==========ASEAN WOMEN===========
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrNUDUkYhDHs8csNfnkc_cHU3e9qeGrZzIDg66CXY7CAgyHBbO7epPI4&s=10" Group-title="ASEAN WOMEN CHAMPIONSHIP", SERVER 1
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://hls.baueahh10.com/live/sd-6MuQ8woMYgKQrgMe5u.m3u8?txSecret=7a2fbe24c87c8cddb485a0ce83009641&txTime=68947247
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrNUDUkYhDHs8csNfnkc_cHU3e9qeGrZzIDg66CXY7CAgyHBbO7epPI4&s=10" Group-title="ASEAN WOMEN CHAMPIONSHIP", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://edg00.smytdryt.live/RG-4/playlist.m3u8?match_id=13054630&s_id=1&t_id=9641&stats=statssport.inplaynet.tech&timestamp=1754473432&key=VTJGc2RHVmtYMTlRdUl6cDFqeWZwenJNTnpqeS8xWk5PZE15MVJod2V1elJTa2FPdENSUERzMzJpVUd3alFaN2dsa1Q5MXJFVVRrVTNJNzhrVm5DTW01cHB0R0JtQ0F3NUlPdFpORFFPRnRrWjFPSGlyYk50ZldHUXhmY1ZXRmE5RWM4bWpDanVtQnhNVmthbTBHNGZ5VEtOWFUwbTRFVG9ZNElGd2hvVGQvekJ6MVV4TXE3Y01sN0x4VVdNN09a
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGrNUDUkYhDHs8csNfnkc_cHU3e9qeGrZzIDg66CXY7CAgyHBbO7epPI4&s=10" Group-title="ASEAN WOMEN CHAMPIONSHIP", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+
 
 
            ==========MACAU OPEN=======
@@ -107,23 +154,6 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
 
 
 
-                 ==========VNL===========
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-
-
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/ID3cNX5MkSkdvHoO_Igk1sdSv_g=/1568x882/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/cover/18954/volleyball-nations-league-cover-d06332.jpg" Group-title="VOLLEYBALL NATIONS LEAGUE", SERVER 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 
 

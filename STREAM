@@ -107,9 +107,11 @@ https://ab1.dbcast.live/ergvb5.m3u8?m=M3qDPLJ5fFDQx7lHrqPW0Q&c=vb5&p=3131312e393
 
 
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png"" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="NASIONAL",RCTI HD
 #EXTVLCOPT:http-user-agent=android-R+
@@ -117,9 +119,11 @@ https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png",GTV HD
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
@@ -2062,39 +2066,39 @@ http://qtvid.pw/starhub/hubtok.mpd?url=https://ucdn.starhubgo.com/bpk-tv/HubSpor
 
 
 
-            =======PREMIER LEAGUE=======
+            =======EPL=======
 
 
 
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 01
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 01
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015547
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 02
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 02
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015548
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 03
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 03
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015549
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 04
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 04
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015550
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 05
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 05
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015551
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 06
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 06
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015552
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 07
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 07
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015553
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 08
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 08
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1015554
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 09
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 09
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100810
 
-#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://iili.io/FtrNfgS.md.jpg",Live Event 10
+#EXTINF:-1 group-title="PREMIER LEAGUE" tvg-id="live event" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST_CXCor0aZV6Em6XCHfQp1mwk5YCCcbfMHPgf8hbq2K7MsJ1CIh1wwWI&s=10",live event 10
 http://goldenpro.xyz:80/VUVZ89R/4EXX322/1100811
 
 

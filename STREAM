@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" Group-title="FRIENDLY MATCH", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM2g8f3w99zXImEpWpunQAO1lZh2rtEtdgPwT6y5BsnA8DoGxjI0kxwc&s=10" Group-title="FRIENDLY MATCH", CH 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://live.bbapcall.com/live/sd-1-4022064.m3u8?txSecret=744cd10d4c388704766c75000bd726bb&txTime=68BB2409

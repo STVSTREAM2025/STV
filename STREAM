@@ -1,31 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvM2g8f3w99zXImEpWpunQAO1lZh2rtEtdgPwT6y5BsnA8DoGxjI0kxwc&s=10" Group-title="FRIENDLY MATCH", CH 1
+
+
+
+           ==========FRIENDLY MATCH===========
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://live1.pro2cdnlive.com/live/channel30/playlist.m3u8?wsSecret=7d3fa79886c37efaaf226c645369bef8&wsABSTime=1757296541
 
 
-
-           ==========BRI SUPER LEAGUE===========
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzkCRWqxLNpALNW_1ssaYccREqU0X7gkyEer57QrMXyf071w0cAzH2C80&s=10" Group-title="BRI SUPER LEAGUE", SERVER 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://fhlsport121.fgs37g8.xyz/token-cUdzz7DGf6eG6WB6lvY6kTqAlMDR13rjaSapk6UaRjLxs7iZHUFdD48vqBNPWUVJBCeIwzdjm%2F9xa/cfall/s2001/v3b/2q01pnpsnUE0pQbiY3AaYKEmqwphZ3umqT0ho25y/super/3x_613063.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://live.bbapcall.com/live/sd-1-4252429.m3u8?txSecret=7459d35905bba636237fe0c113ed999f&txTime=68BC9B28
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzkCRWqxLNpALNW_1ssaYccREqU0X7gkyEer57QrMXyf071w0cAzH2C80&s=10" Group-title="BRI SUPER LEAGUE", SERVER 2
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://hls.baueahh10.com/live/sd-6MuTNFjrFY5hcSP73M.m3u8?txSecret=059293ae06a13c8bb37587e849632e04&txTime=68A1C062
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://live.bbapcall.com/live/sd-1-4252429.m3u8?txSecret=7459d35905bba636237fe0c113ed999f&txTime=68BC9B28
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxzkCRWqxLNpALNW_1ssaYccREqU0X7gkyEer57QrMXyf071w0cAzH2C80&s=10" Group-title="BRI SUPER LEAGUE", SERVER 3
+
+
+           ==========WORLD CUP QUALIFIERS===========
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc4.com/pull.chaojiumq.com/live/sd-1-4251720.m3u8?user_session_id=e628678b95fdd3d9a81a2cea39caf1de&edge_slice=true&txSecret=55af6dffc69bd684c8969d1cec609d1a&sub_m3u8=true&txTime=68bd8262
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 2
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://hls.suanzsd6.com/sd-6MtMP7KankpAM5Efno.m3u8?txSecret=0d54f3659068dba0f1e27efde8c74131&txTime=68BEDDBC
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 3
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.baueahh10.com/live/sd-6MuTNFjrFY5hcSP73M.m3u8?txSecret=1ef25b69cfa05810e888b1a18de6264f&txTime=68A1C292
 
 

@@ -14,9 +14,10 @@ https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://live.bbapcall.com/live/sd-1-4252429.m3u8?txSecret=7459d35905bba636237fe0c113ed999f&txTime=68BC9B28
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1e14cd1998433579a6e6d27a02c3c02:301143c5ec0dbf203eb97de54f6875df
+https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_02_bd3bd135-5652-49ae-a55f-8e6871547bbe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aind%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1757337600
 
 
 

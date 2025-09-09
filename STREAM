@@ -7,17 +7,15 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8eb3c9b8502f4529eeccf966aa808968:b01da1fcd514bdfdf01e86ec1b61f7f5
-https://geo-id-gg-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19497/file/drm/dash/19497_stream.mpd?hdnts=exp=1757351407~acl=/stream/19497/file/*~id=49257797~hmac=94c8f99a1af06e55c234e8729da24cddd64c4e9a76f672444e525b9091892989
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://hls.suanzsd6.com/sd-6MvXcL9cEyzcytbrGw.m3u8?txSecret=9a2606db6b24eca13a8b7d9c58584e55&txTime=68C20873
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1e14cd1998433579a6e6d27a02c3c02:301143c5ec0dbf203eb97de54f6875df
-https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_02_bd3bd135-5652-49ae-a55f-8e6871547bbe/PROD_CMAF_CENC/index-dash.mpd?aws.manifestfilter=audio_language%3Aind%3Bvideo_codec%3Ah264%3Bvideo_height%3A1-1080&start=1757337600
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://hls.suanzsd6.com/sd-6MvXcL9cEyzcytbrGw.m3u8?txSecret=c693b3145d0d93dd8e8bf9ff8b9459ef&txTime=68C209DB
 
 
 
@@ -25,7 +23,7 @@ https://d7pd9oqdl4d44.cloudfront.net/2025_09_04_14_42_02_bd3bd135-5652-49ae-a55f
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTd7dAS_TqmQhp4A4ISeKPMOP5gsWVT2m-zVJqLsyACeP8KoMIRDh1t8A6&s=10" Group-title="FRIENDLY MATCH INT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://live.bbapcall.com/live/sd-1-4252429.m3u8?txSecret=7459d35905bba636237fe0c113ed999f&txTime=68BC9B28
+
 
 
 
@@ -37,14 +35,14 @@ https://live.bbapcall.com/live/sd-1-4252429.m3u8?txSecret=7459d35905bba636237fe0
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://v4-566c73c4fe64bf5e38f5b0eb26829abf.livehwc4.com/pull.chaojiumq.com/live/sd-1-4251720.m3u8?user_session_id=e628678b95fdd3d9a81a2cea39caf1de&edge_slice=true&txSecret=55af6dffc69bd684c8969d1cec609d1a&sub_m3u8=true&txTime=68bd8262
+https://pecdl1.crackstreamslivehd.com/eventos/tracks-v1a1/mono.m3u8?ip=182.3.70.151&token=30889f1f7bb546a80d4ce5e000f5e4d152a2d4e6-c5-1757505493-1757451493
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MtMP7KankpAM5Efno.m3u8?txSecret=0d54f3659068dba0f1e27efde8c74131&txTime=68BEDDBC
+https://51a1.crackstreamslivehd.com/sporttvbr1/tracks-v1a1/mono.m3u8?ip=182.3.70.151&token=59d22bba0c3956b5438a6ed4e251fcb39fd2a961-a5-1757505798-1757451798
 
 
 

@@ -586,11 +586,9 @@ http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&userid=w
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="DAERAH",JOWO CHANNEL
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.dens.tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
 
 #EXTINF:-1 group-title="DAERAH" tvg-id="BandungTV.id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.ibb.co.com/k25BFBs/bandungtv2.png",Bandung TV
@@ -1230,6 +1228,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
 
                   ==========SPORT========
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/VoliTV2023.png/revision/latest?cb=20231115114023" group-title="SPORT",VOLI TV
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://103.179.182.117:6768/hls/2/2.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Astro_Badminton_%282024%29.png/640px-Astro_Badminton_%282024%29.png" group-title="SPORT",ASTRO BADMINTON HD
@@ -1933,7 +1939,7 @@ https://e107.hellotherepadawan.org/v5/q3WfwJy-Jo315vlg0rrGLA/1756887461/21eb375c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://la3.hellotherepadawan.org:9314/v5/JVaOXHDr9FDs3mswndtguw/1756887487/20f9f60269f72fd0dba5fd61cbfd8e69/LwjXo8z-L02K5QdAO5vG2g/1756898167/live/vx-origin/pl-canalsport4_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664126175.png" group-title="SPORT VIP",DIGIS PORT1
+#EXTINF:-1 tvg-id="" tvg-logo="https://dookeela.live/uploads/1664126175.png" group-title="SPORT VIP",DIGI PORT1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/RK67ilWj1XkAqYxpzlyYQw/1756707955/0c97fa64d36e19348bb46d25cd9d737e/N6D9zgW4aeJpKeKwX4cQFw/1756718635/live/vx-origin/ro-digisport1_720/chunks.m3u8
@@ -2127,32 +2133,32 @@ https://e108.hellotherepadawan.org/v5/b3OrszzKe5y7xwY95DAXHA/1756884287/21eb375c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e102.hellotherepadawan.org/v5/sTSrKl5HZCSEaDwNHwPscA/1756883945/21eb375cf969f68b14472a41fdc88044/KPykyNdStYPaFxJLt0Y4AA/1756894625/live/lx-origin/af-supersport8_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport1.png" group-title="SPORT VIP",Ziggo sport1
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport1.png" group-title="SPORT VIP",Ziggo Sport 1
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e106.hellotherepadawan.org/v5/CWWI6bZS_n7oIKoTQgLZkw/1756886427/21eb375cf969f68b14472a41fdc88044/ssImd7JvBFlWwKbE5I2N9A/1756897107/live/vx-origin/nl-ziggosport1_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport2.png" group-title="SPORT VIP",Ziggo sport2
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport2.png" group-title="SPORT VIP",Ziggo Sport 2
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e108.hellotherepadawan.org/v5/8UQyJ-YYh9oKs4fS0MrXGg/1756886455/20f9f60269f72fd0dba5fd61cbfd8e69/bN0rlXlvE12Ez6piMJLRKw/1756897135/live/vx-origin/nl-ziggosport2_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport3.png" group-title="SPORT VIP",Ziggo sport3
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport3.png" group-title="SPORT VIP",Ziggo Sport 3
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e113.hellotherepadawan.org/v5/EglQqQPpEsxyDXCY1UJ3Fw/1756886490/21eb375cf969f68b14472a41fdc88044/43Gcd306-QyRky59W4xMZQ/1756897170/live/vx-origin/nl-ziggosport3_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport4.png" group-title="SPORT VIP",Ziggo sport4
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport4.png" group-title="SPORT VIP",Ziggo Sport 4
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e113.hellotherepadawan.org/v5/VFREzehVz1avP92G9LGnBw/1756886530/20f9f60269f72fd0dba5fd61cbfd8e69/nbON9hV9GwGt8Ac1t1D7fA/1756897210/live/vx-origin/nl-ziggosport4_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport5.png" group-title="SPORT VIP",Ziggosport5
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport5.png" group-title="SPORT VIP",Ziggo Sport 5
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://s8a-c.hellotherepadawan.org:9309/v5/UajaCnLR_RSsZ70kMdU2yA/1756886551/20f9f60269f72fd0dba5fd61cbfd8e69/Mav1vxck74tWM0CQCTo6Rg/1756897231/live/vx-origin/nl-ziggosport5_720/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="SPORT VIP",Ziggo sport6
+#EXTINF:-1 tvg-id="" tvg-logo="https://api.bigwifegang.org/images/png/nl-ziggosport6.png" group-title="SPORT VIP",Ziggo Sport 6
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 https://e112.hellotherepadawan.org/v5/U_RsVETWbH5Vo8xS2mLqZA/1756886572/20f9f60269f72fd0dba5fd61cbfd8e69/Wh5zDE1Elfb2Ht77Er_kQA/1756897252/live/vx-origin/nl-ziggosport6_720/chunks.m3u8

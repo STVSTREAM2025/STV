@@ -55,25 +55,25 @@ https://hls.baueahh10.com/live/sd-6MuTNFjrFY5hcSP73M.m3u8?txSecret=1ef25b69cfa05
 
 
 
-                 ====AFC U23======
+                 ====AFC CHAMPIONS LEAGUE TWO======
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcMzitke52QWv_nya8dZA0oQOtSkllk6_ISWi6s8DQo-3oUQalMT-HII&s=10" Group-title="AFC U23 QUALIFIER", SERVER 1
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://live.bbapcall.com/live/sd-1-4346722.m3u8?txSecret=09f3435e1b2d5e72a8696365f1f4e4ab&txTime=68C05ED6
+https://hls.suanzsd6.com/hd-en-6MvXc3qAi1yXEmg3iw.m3u8?txSecret=8b5921152564538424f73fd8db111ca8&txTime=68CD3EAA
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcMzitke52QWv_nya8dZA0oQOtSkllk6_ISWi6s8DQo-3oUQalMT-HII&s=10" Group-title="AFC U23 QUALIFIER", SERVER 2
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://v4-504986159d8c0b22e9a24abe4ff2b8be.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-100000049.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ddcb0a9b0ab8a3a1d06a79837fa373cb
+https://hls.suanzsd6.com/hd-en-6MvXc3qANepyVcWkLo.m3u8?txSecret=b312c92571f4879edc4087662e666e92&txTime=68CD3EAA
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlcMzitke52QWv_nya8dZA0oQOtSkllk6_ISWi6s8DQo-3oUQalMT-HII&s=10" Group-title="AFC U23 QUALIFIER", SERVER 3
+#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://v4-504986159d8c0b22e9a24abe4ff2b8be.livehwc4.com/stream.titanlivescore.com/live/LXSCORE-100000049.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=ddcb0a9b0ab8a3a1d06a79837fa373cb
+https://hls.suanzsd6.com/hd-en-6MvXc3qBNpfaU3eUo1.m3u8?txSecret=ede5982e435325ae964c837a6500d482&txTime=68CD3EAA
 
 
 
@@ -1430,11 +1430,32 @@ https://wind.iosplayer.ru/wind/premium129/mono.m3u8
 #EXTINF:-1 tvg-name="PPTV HD" tvg-id="PPTV HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a0/PPTV_HD_36.png" group-title="SPORT", PPTV HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 
-#EXTINF:0 tvg-name="US | Fox Sports 1 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_1.png" group-title="SPORT", FOX SPORTS 1 HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/15948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1aU80XOkKe8oav90eb579icqydIXeHmElfhCiFeKTg&s=10" group-title="SPORT",Fox Sports 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd
 
-#EXTINF:0 tvg-name="US | Fox Sports 2 HD" tvg-logo="https://www.lyngsat.com//logo/tv/ff/fox_sports_us_2.png" group-title="SPORT", FOX SPORTS 2 HD
-http://kstv.us:8080/live/tH300gvHff/8606073792/15947.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUI056fnmGhCI3rla6bjRywOc-lcTHFohql1EaN_pwQ&s=10" group-title="SPORT",Fox Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8836fb04d62dc64c9f8a39ef8640d5eb:d4f05ce56c5231b7cdf53455bea58621
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/tepjqej1ys/out/v1/c9c9159baee749a19612b1598495859a/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYuB2MdE08sJaqNVlq4RUer6UnreCmNZQ1bJBb9dQKvA&s=10" group-title="SPORT",Fox Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11c8c1c2ef0385cf1e64d44bb9c3a395:5769730ffbdc4b2fd8945929d9ace063
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/wybgz0orr8/out/v1/2f6d1612abd44f5883917f8a585b955f/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZNF8fYFvkKckgplfBQrQRuJ5Okzg02W5gDHvf0PRoeQ&s=10" group-title="SPORT",Fox Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f327d24c66fbd84e15ab5c9ead7c7a4:83837185529c0c4048f81386c2d36426
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/2000px-One_Sports_logo.svg.png" group-title="SPORT",OneSports

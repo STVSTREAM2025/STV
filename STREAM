@@ -33,47 +33,28 @@ https://hls.suanzsd6.com/sd-6MvXcL9cEyzcytbrGw.m3u8?txSecret=c693b3145d0d93dd8e8
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://pecdl1.crackstreamslivehd.com/eventos/tracks-v1a1/mono.m3u8?ip=182.3.70.151&token=30889f1f7bb546a80d4ce5e000f5e4d152a2d4e6-c5-1757505493-1757451493
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://51a1.crackstreamslivehd.com/sporttvbr1/tracks-v1a1/mono.m3u8?ip=182.3.70.151&token=59d22bba0c3956b5438a6ed4e251fcb39fd2a961-a5-1757505798-1757451798
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5EwNq3hgPikJGtLtjVdxs-Ux1NxD80e0zgVE6dbVEhSTdZWZ5cjOrMHc&s=10" Group-title="WORLD CUP QUALIFIERS", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.baueahh10.com/live/sd-6MuTNFjrFY5hcSP73M.m3u8?txSecret=1ef25b69cfa05810e888b1a18de6264f&txTime=68A1C292
-
-
-
-
-
-                 ====AFC CHAMPIONS LEAGUE TWO======
-
-
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.3
-https://hls.suanzsd6.com/hd-en-6MvXc3qAi1yXEmg3iw.m3u8?txSecret=8b5921152564538424f73fd8db111ca8&txTime=68CD3EAA
-
-
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3qANepyVcWkLo.m3u8?txSecret=b312c92571f4879edc4087662e666e92&txTime=68CD3EAA
-
-
-#EXTINF:-1 tvg-logo="https://assets.promediateknologi.id/crop/0x0:0x0/0x0/webp/photo/p3/57/2024/08/16/acl-2-logo-3991472108.jpg" Group-title="AFC CHAMPIONS LEAGUE TWO", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3qBNpfaU3eUo1.m3u8?txSecret=ede5982e435325ae964c837a6500d482&txTime=68CD3EAA
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 
 

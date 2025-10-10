@@ -61,13 +61,7 @@ https://liveplus.rctiplus.id/RTMP-IN.m3u8
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/RCTI.png"" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="NASIONAL",RCTI HD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
-#KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=1&type=drm
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#https://terabit.web.id/media.mpd?id=1&type=dash
-#https://av-ch-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash/RCTI-DD.mpd
+https://rcti-cutv.rctiplus.id/rcti-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png",GTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey

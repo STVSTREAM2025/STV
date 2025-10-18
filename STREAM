@@ -6,25 +6,25 @@
            ==========LIVE EVENT===========
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/033/003/902/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png" Group-title="LIVE EVENT", SERVER 1
+#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/sd-6MvY73GQ1mKBCegWZd.m3u8?txSecret=950cbc6ab87f243c3596912c4a168075&txTime=68F4A086
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/033/003/902/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png" Group-title="LIVE EVENT", SERVER 2
+#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/sd-6MvY73GQ1PLNVrRM2f.m3u8?txSecret=3714158a2d6ce9c576ab19ad47fd2ff8&txTime=68F4A040
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/033/003/902/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png" Group-title="LIVE EVENT", SERVER 3
+#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://hls.suanzsd6.com/sd-6MvY73GQ1j7hLArbQj.m3u8?txSecret=1021ae296851d2e32b7ef8d5221331bd&txTime=68F4A040
 
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/033/003/902/non_2x/live-icon-for-streaming-live-broadcast-blog-television-event-live-show-news-live-video-png.png" Group-title="LIVE EVENT", SERVER 4
+#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 
@@ -189,7 +189,7 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000013/1024.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="NASIONAL",GARUDA TV HD
+#EXTINF:-1 tvg-id="Garuda TV" tvg-url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Logo_GarudaTV_Merah_Flat_2022.svg/2560px-Logo_GarudaTV_Merah_Flat_2022.svg.png" group-title="NASIONAL",GARUDA TV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 

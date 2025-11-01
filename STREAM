@@ -9,19 +9,18 @@
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MvY73GQ1mKBCegWZd.m3u8?txSecret=950cbc6ab87f243c3596912c4a168075&txTime=68F4A086
+
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MvY73GQ1PLNVrRM2f.m3u8?txSecret=3714158a2d6ce9c576ab19ad47fd2ff8&txTime=68F4A040
+
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MvY73GQ1j7hLArbQj.m3u8?txSecret=1021ae296851d2e32b7ef8d5221331bd&txTime=68F4A040
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 4
@@ -48,11 +47,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/in
 https://liveplus.rctiplus.id/RTMP-IN.m3u8
 
 #EXTINF:-1 group-title="NASIONAL" tvg-id="" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/GTV-1.png",GTV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://fta2-cdn-flr.visionplus.id/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
+#https://dl.dropboxusercontent.com/scl/fi/9gwys59kkf7jnkyi46uh5/SALURAN-OFFLINE.mp4?rlkey=i7u3yfsjitqoset4g5okimbpl&st=1nvtuxy1&dl=0
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444145
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77

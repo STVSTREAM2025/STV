@@ -9,26 +9,25 @@
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuSNW22Lm4fs4EuoD.m3u8?txSecret=f93976fbeb78eb1e485e5df7874f4203&txTime=690A158B
+https://hls.suanzsd6.com/hd-en-6MvXc3quXca3dMbYX9.m3u8?txSecret=346f6b4e5867d6374c60a988a68c51d4&txTime=690B2012
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://0713546501eefc1afcb0b54d64dcb5b8.v.smtcdns.net/play1nm.hnyongshun.cn/live/a7de2628e440c651c10276b35b2d72c9.m3u8?txSecret=72362b6e897a556f3e960b7328b9e90b&txTime=6908c708
+https://hls.suanzsd6.com/hd-en-6MvXc3qugrsHzRB9wu.m3u8?txSecret=86f752b524ed2731fd65513926ca98ab&txTime=690B2012
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/07c1b664-7304-44b8-bb68-756b34ead602/1.m3u8
+https://hls.suanzsd6.com/hd-en-6MvXc3quhKF4SB69nf.m3u8?txSecret=c54f082fee5b5eb0dd44781fadd303d2&txTime=690B2012
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://ns.wikisport.cc/live?token=1oWRvcuIWaqp5vRw9Qf7K1NyRWViWFoya1pvZEdVbFVDKzdUVHhWYUdXOHdNaXAzZEg5Y1BsOEErN1BqcXFjVEZaQSs2K20vMXh4OGlIS0RYS0VSK1dLK25pMSs
-
+https://bein-esp-xumo.amagi.tv/playlistR360p.m3u8
 
 
 
@@ -2460,53 +2459,27 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
                       =========TOUR BWF=======
 
 #EXTINF:-1 group-title="TOUR BWF" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/1/5/csm_3.64_7d39a8c3fd.jpg",BWF COURT 1
-#https://dl.dropboxusercontent.com/scl/fi/j6loje236ofpt9oc2hio3/Bwf.m3u8?rlkey=pueggauyg73cwwx2rqtkxsasj&st=k7tsfopv&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18249&type=dash
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://v4-15ff02a6a92b215bcd25dc26d4be48bc.livehwc4.com/pull-prod511.zczlxxkj.com/live/8671219.m3u8?sub_m3u8=true&user_session_id=56d897794f26b65d41a47fd78af51f3b&edge_slice=true&auth_info=rocqn5JkuLJoFlCy2GNq%2BsusF2jDH6xNMe40bm33lq4%3D.6a3853684e4e7a6c5a5146694675776c
+
+
 
 #EXTINF:-1 group-title="TOUR BWF" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/1/5/csm_3.64_7d39a8c3fd.jpg",BWF COURT 2
-#https://dl.dropboxusercontent.com/scl/fi/pm0oal8re30j9azy9noio/Bwf2.m3u8?rlkey=whcst7v9w7g1rp6zpb6vq5i3n&st=9vttsldl&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18250&type=dash
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/1080p/playlist.m3u8?token=aj74uj1i83s&v=1762251093826
+
+ 
 
 #EXTINF:-1 group-title="TOUR BWF" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/1/5/csm_3.64_7d39a8c3fd.jpg",BWF COURT 3
-#https://dl.dropboxusercontent.com/scl/fi/0vgznju5lgiy2yc0hkai3/Bwf3.m3u8?rlkey=08q5e5k42tmi96kjoik9onq32&st=8q804x96&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18252&type=dash
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/1080p/playlist.m3u8?token=0fv5w8gh5i8e&v=1762251121877
+
+
 
 #EXTINF:-1 group-title="TOUR BWF" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/1/5/csm_3.64_7d39a8c3fd.jpg",BWF COURT 4
-#https://dl.dropboxusercontent.com/scl/fi/sdgme4uzuvvatxx8pp1ic/Bwf4.m3u8?rlkey=je4nuv70nc2jkvdhqmo6e7nfb&st=3ulu9tm8&dl=0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:mimetype=application/dash+xml
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.vidio.com&referer=https://www.vidio.com/&user-agent=Vidio/6.43.9-8ec34856ef (Linux;Android 11) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=drm
-https://seprai.jasoncreak8.workers.dev/play.mpd?id=18253&type=dash
+#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/480p/playlist.m3u8?token=cbwy4k00fr8&v=1762251138842

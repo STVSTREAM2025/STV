@@ -9,25 +9,25 @@
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 1
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3quXca3dMbYX9.m3u8?txSecret=346f6b4e5867d6374c60a988a68c51d4&txTime=690B2012
+https://ns.wikisport.cc/live?token=2SKkdzwAvLm3WT6kGfFwvDVlaEtwbGErUkwvL3ZsQ2VoRFRvVzFqTE5pNWcxN0RvTm9TcEhzMlFmV2E2SGZUNjZNeWF6SXZiYjVVTTRJR0RRMkh5Y3E4bXMxdEc
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 2
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3qugrsHzRB9wu.m3u8?txSecret=86f752b524ed2731fd65513926ca98ab&txTime=690B2012
+https://hls.suanzsd6.com/ikotv/sd-6MuSNW22gKCcxcXnwq.m3u8?txSecret=5a74e0cab7cd80ac031368569590c328&txTime=690B45C3
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 3
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/hd-en-6MvXc3quhKF4SB69nf.m3u8?txSecret=c54f082fee5b5eb0dd44781fadd303d2&txTime=690B2012
+https://hls.suanzsd6.com/sd-6MuSNW22B6b8viaDgb.m3u8?txSecret=1d7ffba029e0580d971e35c820bfe727&txTime=690B45C3
 
 
 #EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://bein-esp-xumo.amagi.tv/playlistR360p.m3u8
+https://hls.suanzsd6.com/hd-en-6MvXc3quMx6Wh1vrQX.m3u8?txSecret=866a92ae3d567ae601ba117b63326f6d&txTime=690B4549
 
 
 

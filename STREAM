@@ -3,31 +3,62 @@
 
 
 
-           ==========LIVE EVENT===========
+           ==========SEA GAMES THAILAND===========
 
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 1
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuSNW22LP5sAFykGF.m3u8?txSecret=65b5128c5c0c6bf94940f1493bd99eba&txTime=690B6DC4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d56316d3d77148d18bd1f23138247207:340620d36e8e8209a7608154ff0c96d4
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/53f83c799f4d4020b5af4bad889d7c42/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 2
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuSNW22g61jjjaJ2T.m3u8?txSecret=e01617b20420ba66d4d61c5ec3878c70&txTime=690B6575
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d19fdcc1de0245edbbfcfaa31b3385ed:d0bfa058d6f3d7c45c5244820dbda8f3
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/c4d0918d98cd4bf8a77850ed16696110/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 3
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuSNW22gH1968hsnw.m3u8?txSecret=52096c48c0012f8b22da77d450d1bd5f&txTime=690B735D
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ac900f4053fa420095fb84f491f7a331:59748725964ff275e524af73792c8ad4
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/9a06560796f441a3981cd5a27c7d917f/index.mpd
 
 
-#EXTINF:-1 tvg-logo="https://media.tenor.com/EpTkVmwMByEAAAAM/twitch-now-live.gif" Group-title="LIVE EVENT", SERVER 4
-#EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://hls.suanzsd6.com/sd-6MuSNW22g3pFsFkNsZ.m3u8?txSecret=834f78b127e9284e98e8198b475cee1d&txTime=690B7437
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e02fc4146be34c2db75a847a6f5e95e9:a25a6118776646a690b2931609264bd5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/da31f135bd6c4fe0b7dc4262436277fb/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a83ee088e5343d095ac7f4d8d3cd945:dc0da9fdfae3c69c322b67db207a87a1
+#https://mwmpos03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+https://tglmp03.akamaized.net/out/v1/7cfe6d15c127407588568af9f4574a21/manifest.mpd
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c9c38c2de3f41afa12f9872ad6c3903:d6f5a6750b32d2addec0c98fff14de9d
+#https://mwmpos01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+https://tglmp01.akamaized.net/out/v1/5fa3fdc8720b4317b14df756e81b78c1/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38vn7lrkl4Dd8iY7Cqh35zalKi-n9LxtSxO-oRjfUdXjJ2aQJZ0RtryEO&s=10" Group-title="SEA GAMES THAILAND", SERVER 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3da197d13d754505887a04aedd17922e:0028b47ca60594991910c6f6048c51a0
+#https://mwmpos02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
+https://tglmp02.akamaized.net/out/v1/2f39077458694b06bdfb15ef16f55d45/manifest.mpd
 
 
 
@@ -2482,4 +2513,4 @@ https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/1080p/playlist.m3u8?
 #EXTINF:-1 group-title="TOUR BWF" tvg-logo="https://www.djarumbadminton.com/assets/_processed_/1/5/csm_3.64_7d39a8c3fd.jpg",BWF COURT 4
 #EXTVLCOPT:http-referrer=https://vida.cleanknow4wniq.sbs/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/480p/playlist.m3u8?token=cbwy4k00fr8&v=1762251138842
+https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/480p/playlist.m3u8?token=cbwy4k00fr8&v=1762251138842#80FF00
